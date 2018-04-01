@@ -189,37 +189,3 @@ trades$balance<-cumsum(trades$profit)
 
 #Grafica de los resultados
 plot(trades$balance)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-
